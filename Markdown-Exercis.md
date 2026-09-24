@@ -40,6 +40,28 @@ def hello world():
   print("Hello, world!")
 ...
 
+### tables
+| programming Language | Difficulty Level | Use Case           |
+|----------------------|------------------|--------------------|
+| Python               | Easy             | Data Science AI    |
+| JavaScript           | Moderate.        | Web Development    |
+| C++                  | Hard             | Game development   |
+
+### Task List
+- [x] Create a Markdown file
+- [x] Practice headers
+- [ ] Learn how to use tables
+- [ ] Experiment with task lists
+- [ ] Sleep well
+- [ ] Workout
+- [ ] Talk to a friend
+
+### Footnotes
+Here's a footnote about how to add extra information to your document. [^1]
+
+[^1]: Footnotes allow you to expand on details without cluttering the main text.
+
+
 
   
   
