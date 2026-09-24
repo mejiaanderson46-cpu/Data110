@@ -1,1 +1,1 @@
-123456 week 1 HW
+week 1 HW
