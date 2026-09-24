@@ -26,4 +26,21 @@ you can use different levels of headers to structure your content. This is an ex
 - Here is a [link to my Github repository](https://github.com/mejiaanderson46-cpu/Data110).
 
 - ### Images
-- 
+- ![A beautiful place](IMG_3572.jpeg)
+
+### Blockquotes
+> "Mathematics is the art of giving the same name to different things."
+>  - Henri Poincare
+
+### Inline Code & Code Blocks
+This is example of 'inline code' used within a sentence.
+
+...
+def hello world():
+  print("Hello, world!")
+...
+
+
+  
+  
+  
